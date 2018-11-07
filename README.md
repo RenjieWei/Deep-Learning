@@ -10,7 +10,7 @@ Projects include convolution neural networks, recurrent neural networks, and dee
 * Achieve 94% accuracy on the Test Set. 
 - [ ] HW03
 * Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. 
-* The convolution network use (i) dropout, (ii) trained with RMSprop or ADAM, and (iii) data augmentation. 
+* The convolution network uses (i) dropout, (ii) trained with RMSprop or ADAM, and (iii) data augmentation. 
 * Compare dropout test accuracy (i) using the heuristic prediction rule and (ii) Monte Carlo simulation. 
 
 
