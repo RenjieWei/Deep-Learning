@@ -12,5 +12,5 @@ Projects include convolution neural networks, recurrent neural networks, and dee
 * Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. 
 * The convolution network uses (i) dropout, (ii) trained with RMSprop or ADAM, and (iii) data augmentation. 
 * Compare dropout test accuracy (i) using the heuristic prediction rule and (ii) Monte Carlo simulation. 
-
-
+- [ ] HW04
+* Implement a deep residual neural network (ResNets) for CIFAR100.
