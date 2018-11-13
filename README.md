@@ -14,3 +14,5 @@ Projects include convolution neural networks, recurrent neural networks, and dee
 * Compare dropout test accuracy (i) using the heuristic prediction rule and (ii) Monte Carlo simulation. 
 - [ ] HW04
 * Implement a deep residual neural network (ResNets) for CIFAR100.
+- [ ] HW05
+* Image Similarity using Deep Ranking.
